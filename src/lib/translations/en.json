@@ -1,0 +1,276 @@
+{
+  "site": { "name": "SAMI Auto Service" },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "Reliable Auto Repair You Can Trust",
+    "description": "Fast, honest, and affordable mechanical repair for all vehicles.",
+    "callNow": "Call Now",
+    "telegram": "Telegram"
+  },
+  "trust": {
+    "items": [
+      { "title": "Experienced Mechanic", "description": "Years of hands-on expertise" },
+      { "title": "Affordable Pricing", "description": "Transparent, fair rates" },
+      { "title": "Quality Repairs", "description": "Guaranteed workmanship" }
+    ],
+    "learnMore": "Learn more about me"
+  },
+  "services": {
+    "heading": "Our Services",
+    "viewAll": "View All Services",
+    "items": [
+      { "title": "Engine Repair", "description": "Complete engine diagnostics and repair services for all vehicle makes." },
+      { "title": "Transmission Repair", "description": "Automatic and manual transmission repair, rebuild, and maintenance." },
+      { "title": "Suspension Service", "description": "Shock absorbers, struts, and full suspension system repair." }
+    ]
+  },
+  "whyChooseUs": {
+    "heading": "Why Choose Us",
+    "items": [
+      { "title": "Honest Diagnosis" },
+      { "title": "Fair Pricing" },
+      { "title": "Skilled Work" },
+      { "title": "Fast Service" },
+      { "title": "Reliable Repairs" },
+      { "title": "Customer Focus" }
+    ]
+  },
+  "workflow": {
+    "steps": [
+      { "title": "Inspection", "description": "We check your vehicle carefully." },
+      { "title": "Diagnosis", "description": "We explain the issue clearly." },
+      { "title": "Repair", "description": "We fix the problem professionally." },
+      { "title": "Final Check", "description": "We ensure safety before delivery." }
+    ]
+  },
+  "faq": {
+    "heading": "FAQ",
+    "seeMore": "See More Questions",
+    "items": [
+      {
+        "question": "Do I need to make an appointment?",
+        "answer": "No appointment is required. You can call or visit our workshop directly. However, scheduling ahead helps us prepare for your specific needs and reduces wait time."
+      },
+      {
+        "question": "How long do typical repairs take?",
+        "answer": "Repair times vary depending on the complexity of the issue. Most standard repairs are completed within the same day. We provide a time estimate during the initial diagnosis."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Need Car Repair Today?",
+    "subtitle": "Call or message us instantly.",
+    "tagline": "Honest, reliable auto repair you can trust."
+  },
+  "tray": {
+    "call": "Call",
+    "telegram": "Telegram",
+    "directions": "Directions"
+  },
+  "modal": {
+    "title": "Choose Your Language",
+    "subtitle": "Select your preferred language to continue",
+    "english": "English",
+    "amharic": "አማርኛ"
+  },
+  "trustChips": {
+    "honestService": "Honest Service",
+    "fairPricing": "Fair Pricing",
+    "skilledMechanic": "Skilled Mechanic"
+  },
+  "about": {
+    "hero": {
+      "title": "About SAMI Auto Service",
+      "subtitle": "Honest mechanical repair built on experience and care."
+    },
+    "story": {
+      "title": "Who We Are",
+      "text": "SAMI Auto Service is a locally owned traditional workshop specializing in honest repair work without the corporate overhead and inflated prices of national service chains. Every vehicle that comes through our doors is handled personally by experienced mechanics who take pride in their craft. We believe in one-on-one accountability — when you bring your car to us, you're dealing directly with the people who will fix it."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "text": "To deliver direct, high-quality, and transparent auto mechanical services that keep our community moving safely."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "text": "To remain the most trusted local reference point for reliable, stress-free vehicle maintenance and repair."
+    },
+    "values": {
+      "heading": "Our Values",
+      "items": [
+        { "title": "Integrity First", "description": "Honest diagnoses and transparent communication" },
+        { "title": "Reliable Diagnosis", "description": "Thorough inspection to identify the real issue" },
+        { "title": "Workmanship Guarantee", "description": "All repairs backed by our quality guarantee" },
+        { "title": "Customer Care", "description": "Every customer treated with respect and fairness" }
+      ]
+    }
+  },
+  "servicesPage": {
+    "hero": {
+      "title": "Our Mechanical Repair Services",
+      "subtitle": "Fast, reliable, and affordable car repair and maintenance for all makes and models."
+    },
+    "categories": [
+      {
+        "name": "Engine Services",
+        "items": [
+          { "title": "Engine Repair", "description": "Full diagnostics and repair for all engine types and issues." },
+          { "title": "Engine Overhaul", "description": "Complete engine rebuild and restoration services." },
+          { "title": "Engine Maintenance", "description": "Routine maintenance to extend engine life and performance." }
+        ]
+      },
+      {
+        "name": "Transmission Services",
+        "items": [
+          { "title": "Automatic Transmission", "description": "Repair and maintenance for automatic gearbox systems." },
+          { "title": "Differential Repair", "description": "Differential inspection, service, and repair." }
+        ]
+      },
+      {
+        "name": "Steering & Suspension",
+        "items": [
+          { "title": "Power Steering Repair", "description": "Fix leaks, pump issues, and steering responsiveness." },
+          { "title": "Shock Absorber Repair", "description": "Replace worn shocks and struts for a smoother ride." },
+          { "title": "Suspension Repair", "description": "Full suspension system diagnostics and repair." }
+        ]
+      },
+      {
+        "name": "General Maintenance",
+        "items": [
+          { "title": "Brake Repair", "description": "Pad replacement, rotor resurfacing, and brake system checks." },
+          { "title": "Oil & Filter Change", "description": "Regular oil changes to keep your engine running smoothly." },
+          { "title": "Cooling System Service", "description": "Radiator, coolant flush, and cooling system repairs." },
+          { "title": "General Inspection", "description": "Comprehensive vehicle health check and safety inspection." }
+        ]
+      }
+    ],
+    "notSure": {
+      "title": "Not sure what's wrong with your car?",
+      "description": "Our experienced technician can run a hands-on diagnostic inspection to isolate the precise issue quickly.",
+      "callNow": "Call Mechanic Now",
+      "telegram": "Chat on Telegram"
+    }
+  },
+  "gallery": {
+    "hero": {
+      "title": "Our Workshop & Repair Work",
+      "subtitle": "Real repairs. Real results. Honest mechanical work you can trust."
+    },
+    "filters": {
+      "all": "All",
+      "engine": "Engine Repair",
+      "transmission": "Transmission",
+      "suspension": "Suspension",
+      "brakes": "Brakes",
+      "workshop": "Workshop"
+    },
+    "items": [
+      { "label": "Engine diagnostics in progress" },
+      { "label": "Transmission system repair" },
+      { "label": "Suspension and shock absorber replacement" },
+      { "label": "Our workshop setup" },
+      { "label": "Brake pad replacement" },
+      { "label": "Complete engine overhaul" },
+      { "label": "Professional tool organization" },
+      { "label": "Suspension component inspection" },
+      { "label": "Vehicle lifted for undercarriage work" },
+      { "label": "Transmission gear inspection" },
+      { "label": "Precision mechanical work" },
+      { "label": "Brake system inspection" }
+    ],
+    "trust": "Every vehicle we work on is handled with care, experience, and attention to detail."
+  },
+  "work": {
+    "title": "Our Work",
+    "viewAll": "View full gallery"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "phone": {
+      "title": "Call Us",
+      "description": "Call us directly for fast service",
+      "cta": "Call Now"
+    },
+    "telegram": {
+      "title": "Telegram",
+      "description": "Send a message anytime for a quick response",
+      "cta": "Open Telegram"
+    },
+    "address": {
+      "title": "Our Location",
+      "description": "Visit our workshop directly for inspections",
+      "cta": "Open Maps"
+    },
+    "hours": {
+      "title": "Operating Hours",
+      "weekdays": "Monday – Saturday",
+      "weekdaysTime": "8:00 AM – 6:00 PM",
+      "sunday": "Sunday",
+      "sundayTime": "Closed"
+    }
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "The page you are looking for does not exist or has moved. Use one of the options below to continue.",
+    "backHome": "Back to Home",
+    "viewServices": "View Services"
+  },
+  "faqPage": {
+    "hero": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Quick answers about our services, pricing, and repair process."
+    },
+    "categories": [
+      {
+        "name": "Service Scope",
+        "items": [
+          {
+            "question": "What vehicles do you work on?",
+            "answer": "We work on all makes and models including sedans, SUVs, trucks, and commercial vehicles. Our mechanics have experience with both domestic and imported vehicles."
+          },
+          {
+            "question": "Do I need to book in advance?",
+            "answer": "No appointment is required. You can call or visit our workshop directly. However, scheduling ahead helps us prepare for your specific needs and reduces wait time."
+          }
+        ]
+      },
+      {
+        "name": "Pricing Clarity",
+        "items": [
+          {
+            "question": "How are diagnostic fees calculated?",
+            "answer": "Our diagnostic fee is a flat rate based on the type of inspection needed. We provide the fee upfront before any work begins, so there are no surprises."
+          },
+          {
+            "question": "Do you provide transparent quotes?",
+            "answer": "Absolutely. We provide a detailed written quote for all recommended repairs before any work is performed. You approve all work and costs upfront."
+          }
+        ]
+      },
+      {
+        "name": "Parts & Guarantees",
+        "items": [
+          {
+            "question": "Can I bring my own replacement parts?",
+            "answer": "Yes, you may bring your own parts. However, we cannot guarantee fitment or warranty on customer-supplied parts. We recommend using parts sourced through us for guaranteed compatibility."
+          },
+          {
+            "question": "Do you guarantee repair durability?",
+            "answer": "All repairs performed by SAMI Auto Service are backed by our workmanship guarantee. We stand behind the quality of our work and use quality parts to ensure lasting results."
+          }
+        ]
+      }
+    ],
+    "support": {
+      "title": "Still have questions?",
+      "text": "We're ready to help you directly. Reach out via call or Telegram for immediate assistance."
+    }
+  }
+}
